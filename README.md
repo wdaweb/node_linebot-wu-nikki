@@ -25,4 +25,4 @@
 ## 作業連結
 
 
-- [儲存庫](https://github.com/wu-nikki/mylinebot)
+- [蕃茄鐘作業連結](https://github.com/wu-nikki/mylinebot)
